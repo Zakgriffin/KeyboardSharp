@@ -1,0 +1,15 @@
+{
+  "name": "keyboardsharp",
+  "version": "1.0.0",
+  "description": "Just a thing that plays musix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zak Griffin",
+  "license": "ISC",
+  "dependencies": {
+    "midi": "^1.0.0",
+    "play-sound": "^1.1.3"
+  }
+}
